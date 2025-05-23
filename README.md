@@ -26,6 +26,11 @@ Data storytelling – to derive actionable insights for urban safety improvement
 
 This project demonstrates how business intelligence tools can transform raw data into powerful insights for public safety strategies.
 
----
+![op_1](https://github.com/user-attachments/assets/f11137e1-500f-40e0-9e65-94e0dfcc34af)
 
-Let me know if you'd like to add a GitHub link or description for README formatting.
+
+![op_2](https://github.com/user-attachments/assets/2960c202-1a00-4e17-be3d-59ae0cb800a2)
+
+
+
+
